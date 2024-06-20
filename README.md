@@ -13,9 +13,20 @@ Introduction:-
 The Attendance System using Face Recognition is a project designed to automate the process of marking attendance using facial recognition technology. By leveraging advanced image processing and machine learning techniques, this system provides an efficient and accurate method for tracking attendance. The system uses the InsightFace model for face detection and facial features extraction, ensuring high accuracy and performance.
 
 Features:-
-Face Detection and Recognition: Automatically detects and recognizes faces in real-time.
-Attendance Logging: Logs attendance data to a Redis cloud database with timestamps.
+
 User Management: Allows for adding user profiles.
+
+![Screenshot (764)](https://github.com/alamrehan1234/attendance-system-face-recognition/assets/122749995/2c0f4ba0-5106-453d-8201-f8419e5a8afa)
+
+Face Detection and Recognition: Automatically detects and recognizes faces in real-time.
+
+![Screenshot (765)](https://github.com/alamrehan1234/attendance-system-face-recognition/assets/122749995/920b3be2-6bdb-4280-8d2c-148f0c6d21cc)
+
+Attendance Logging: Logs attendance data to a Redis cloud database with timestamps.
+
+![Screenshot (767)](https://github.com/alamrehan1234/attendance-system-face-recognition/assets/122749995/f514dd29-dca3-494e-8873-8be87917437c)
+
+
 Reporting: Generates attendance reports for different time periods.
 Web Interface: User-friendly web application built with Streamlit for interaction.
 
