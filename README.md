@@ -1,4 +1,4 @@
-				                                                                            Attendance System Using Face Recognition
+				                         Attendance System Using Face Recognition
 
 Table of Contents:-
 
