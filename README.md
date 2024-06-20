@@ -80,20 +80,20 @@ Generate and view attendance reports for different time periods.
 
 Dependencies:-
 
-numpy
-pandas
-matplotlib
-scipy
-jupyter
-opencv-python
-redis
-insightface
-onnxruntime
-sklearn
-scikit-learn
-InsightFace (for face detection and facial features extraction)
-Redis (cloud database)
-Visual Studio Code (IDE)
+numpy,
+pandas,
+matplotlib,
+scipy,
+jupyter,
+opencv-python,
+redis,
+insightface,
+onnxruntime,
+sklearn,
+scikit-learn,
+InsightFace (for face detection and facial features extraction),
+Redis (cloud database),
+Visual Studio Code (IDE),
 Streamlit (for creating web app)
 
 
