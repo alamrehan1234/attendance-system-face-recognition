@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+jupyter
+opencv-python
+sklearn
+scikit-learn
+redis
+insightface
+onnxruntime
