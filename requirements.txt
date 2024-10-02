@@ -4,7 +4,8 @@ matplotlib
 scipy
 jupyter
 opencv-python
-sklearn
+streamlit
+streamlit-webrtc
 scikit-learn
 redis
 insightface
